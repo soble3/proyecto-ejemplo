@@ -1,1 +1,1 @@
-# Proyecto Ejemplo\n\nEste es un repositorio de ejemplo para la clase de Git.
+# Proyecto Ejemplo Este es un repositorio de ejemplo para la clase de Git.
